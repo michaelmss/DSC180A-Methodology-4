@@ -1,3 +1,3 @@
 # DSC180A-Methodology-4
 
-Mike Smith
+mss002@ucsd.edu
